@@ -6,7 +6,4 @@
 - CSS3 (indexstyle.css)
 - No frameworks or build tools
 
-<video width="100%" controls>
-  <source src="html5fun.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Game Demo](html5fun.gif)
